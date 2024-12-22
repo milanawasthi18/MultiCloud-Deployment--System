@@ -58,7 +58,7 @@ This Terraform project is designed to manage infrastructure across multiple clou
 
 ## Resources Created
 
-![image alt]([image_url](https://github.com/milanawasthi18/MultiCloud-Deployment--System/blob/main/terraform-architecture-diagram.png?raw=true))
+![image alt](https://github.com/milanawasthi18/MultiCloud-Deployment--System/blob/fc3240a58968a17ec01dcf980642f0ccfe1d7181/terraform-architecture-diagram.png)
 
 **AWS-**
 - S3 Bucket for website hosting
