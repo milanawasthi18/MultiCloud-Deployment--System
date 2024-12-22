@@ -1,4 +1,5 @@
 # Terraform Multi-Cloud Project
+![image alt](https://github.com/milanawasthi18/MultiCloud-Deployment--System/blob/main/Yellow%20and%20Orange%20Illustrative%20Self-Improvement%20Infographic%20Poster.png?raw=true)
 
 This Terraform project is designed to manage infrastructure across multiple cloud providers, including AWS and Azure. It automates the deployment of various resources such as virtual machines, storage accounts, and databases across these platforms.
 
@@ -10,6 +11,8 @@ This Terraform project is designed to manage infrastructure across multiple clou
 - `outputs.tf`: Defines outputs from Terraform that can be useful for further configurations or information.
 - `.gitignore`: Specifies files and directories to be ignored by git.
 - `project_website/`: Contains the HTML and CSS files for the website.
+
+
 
 ## Prerequisites
 
@@ -54,6 +57,8 @@ This Terraform project is designed to manage infrastructure across multiple clou
    Confirm the action when prompted to delete the resources.
 
 ## Resources Created
+
+![image alt]([image_url](https://github.com/milanawasthi18/MultiCloud-Deployment--System/blob/main/terraform-architecture-diagram.png?raw=true))
 
 **AWS-**
 - S3 Bucket for website hosting
